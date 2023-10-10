@@ -23,6 +23,14 @@
         padding: 20px;
     }
     
+    nav a {
+text-transform: uppercase;
+color: white;
+font-size: 30px;
+text-decoration: none;
+}
+
+
     
     #banner-topo {
     width: 100%;
