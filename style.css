@@ -32,6 +32,13 @@ font-weight: lighter;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+nav a:hover{
+color: deeppink;
+text-decoration: underlinel;
+
+
+}
+
 
     
     #banner-topo {
